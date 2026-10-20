@@ -1,6 +1,6 @@
 <div align="center">
 
-### ⚡ Cyber Physical Sustem Hobbyist · Builder · Learner · Problem Solver
+### ⚡ Cyber Physical System Hobbyist · Builder · Learner · Problem Solver
 
 *"No resistance can break the potential of an electrical nd electronics engineer."*
 
