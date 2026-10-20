@@ -1,8 +1,8 @@
 <div align="center">
 
-### ⚡ Electrical Engineer · Builder · Learner · Problem Solver
+### ⚡ Cyber Physical Sustem Hobbyist · Builder · Learner · Problem Solver
 
-*"No resistance can break the potential of an electrical engineer."*
+*"No resistance can break the potential of an electrical nd electronics engineer."*
 
 ---
 
@@ -20,7 +20,7 @@
 
 I'm **Animesh Kumar**, a 3rd-year B.Tech Electrical Engineering student at **Cambridge Institute of Technology**, Ranchi (Batch 2023–27), building on a Diploma in Electrical Engineering (81%) from **Gola Polytechnic**—where I first taught myself MATLAB and Simulink.
 
-I'm an engineer at heart—driven by curiosity and a passion for building practical solutions. My work spans **embedded systems**, **automation**, and **renewable energy**, always focused on technology that makes a real difference.
+I'm an CPS Hobbyist at heart—driven by curiosity and a passion for building practical solutions. My work spans **embedded systems**, **automation**, and **renewable energy**, always focused on technology that makes a real difference.
 
 ---
 
@@ -45,7 +45,7 @@ I'm an engineer at heart—driven by curiosity and a passion for building practi
 
 ---
 
-### 🚗 [AURA 1.0 — Autonomous Unified Rural Agriculture](https://github.com/unanimesh/AURA-1.0)
+### 🌽 [AURA 1.0 — Autonomous Unified Rural Agriculture](https://github.com/unanimesh/AURA-1.0)
 
 > AI-driven autonomous systems to modernise and unify rural farming operations.
 >
